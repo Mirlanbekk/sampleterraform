@@ -12,3 +12,4 @@
    81  terraform apply -var-file=var.tfvars
    82  terraform destroy -var-file=var.tfvars
    83 assa
+   84 asasaaa
